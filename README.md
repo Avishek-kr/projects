@@ -5,25 +5,26 @@
 <a href="https://github.com/Avishek-kr/projects/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/Avishek-kr/projects?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/projects/graphs/contributors">
+<a href="https://github.com/Avishek-kr/projects/graphs/contributors">
 <img alt="People" src="https://img.shields.io/github/contributors/Avishek-kr/projects?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/stargazers">
+<a href="https://github.com/Avishek-kr/projects/stargazers">
 <img alt="Stars" src="https://img.shields.io/github/stars/Avishek-kr/projects?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/projects/network/members">
+<a href="https://github.com/Avishek-kr/projects/network/members">
 <img alt="Forks" src="https://img.shields.io/github/forks/Avishek-kr/projects?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/watchers">
+<a href="https://github.com/Avishek-kr/projects/watchers">
 <img alt="Watches" src="https://img.shields.io/github/watchers/Avishek-kr/projects?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/pulse">
+<a href="https://github.com/Avishek-kr/projects/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/Avishek-kr/projects?style=flat&color=e06c75&label="> </a>
 
 <h3>Showcase All Your Projects 🛍️🎇</h3>
 
 <figure>
-  <img src= "images/screenshot.png" alt="projects screenshot" style="width:100%">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23341110/271813938-9ca25a3b-a0e4-4df2-a350-a7b4a497a4c5.png" />
+
   <br/>
   <figcaption>projects screenshot</figcaption>
 </figure>
@@ -46,7 +47,7 @@ Needed a way to display all my projects, used my [portfolio's project section](h
 To get projects, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/projects
+git clone https://github.com/Avishek-kr/projects
 cd projects
 ```
 
@@ -63,10 +64,6 @@ You can easily set up projects to show your own repos.
 - Go to repo settings on GitHub and enable GitHub Pages.
 
 The site should be live on `https://<your-username>.github.io/projects`
-
-Here's the projects page for [@sindresorhus](https://github.com/sindresorhus)
-
-![sindresorhus's projects](./images/demo.png)
 
 ### Number Of Repos
 
@@ -86,13 +83,6 @@ If you are working locally and notice the API is not sending over data, it might
 
 You can either wait for an hour or setup a personal access token on GitHub and pass that into the fetch request in `script.js`
 
-### Themes
-
-Comes with a dark and light theme by default, depends upon your system configs.
-Edit the variables under `:root` in `styles.css` to modify colorscheme.
-
-![Light screenshot](./images/screenshot-light.png)
-
 ### Programming Language Icons
 
 This project uses [Devicon](https://devicon.dev/) for adding language icons, if the language name and icon are not being
@@ -100,7 +90,7 @@ displayed correctly for any of your repos, update `devicons` mapping in `script.
 
 ## Viewing projects
 
-Open `index.html` in your favorite browser or visit [2kabhishek.github.io/projects](https://Avishek-kr.github.io/projects).
+Open `index.html` in your favorite browser or visit [Avishek-kr.github.io/projects](https://Avishek-kr.github.io/projects).
 
 ## How it was built
 
