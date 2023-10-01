@@ -219,7 +219,6 @@ li.repo .description {
 
 
 .content:hover .description {
-    width: 300px;
    display: -webkit-box;
    -webkit-box-orient: vertical;
    -webkit-line-clamp: inherit;
